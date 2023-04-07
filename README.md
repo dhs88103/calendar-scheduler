@@ -26,5 +26,11 @@ N/A
 
 MIT license
 
-## Screenshots
+## Screenshots and Link
+
+https://dhs88103.github.io/calendar-scheduler/
+
+![Screenshot 2023-04-06 205413](https://user-images.githubusercontent.com/121986372/230518992-1ce8022a-5f21-40bb-bc62-8fc78c163be8.png)
+![Screenshot 2023-04-06 205424](https://user-images.githubusercontent.com/121986372/230518998-0d9cc7fc-5263-4bc0-90ca-54fa53f1cc7c.png)
+
 
